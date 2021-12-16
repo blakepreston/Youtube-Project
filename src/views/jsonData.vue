@@ -8,6 +8,10 @@
       <p name="name">{{item.ProductName}}</p>
       <label for="price">Price</label>
       <p name="price">{{item.Price}}</p>
+
+      <div>
+          <h1>TEST NETLIFY</h1>
+      </div>
   </div>
 </template>
 
